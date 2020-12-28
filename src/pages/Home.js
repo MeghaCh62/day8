@@ -8,11 +8,8 @@ class home extends Component {
             <body>
             <div>
             
-            <div className="img1">
+            <div className="home">
            
-            <center><h1>Home Page</h1></center>
-           
-
             </div>
 </div>  </body>
                
