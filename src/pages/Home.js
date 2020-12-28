@@ -5,6 +5,7 @@ import React, { Component } from 'react';
 class home extends Component {
     render() {
         return (
+            <body>
             <div>
             
             <div className="img1">
@@ -13,7 +14,7 @@ class home extends Component {
            
 
             </div>
-</div>  
+</div>  </body>
                
           
         );
